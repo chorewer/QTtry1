@@ -16,6 +16,8 @@ QtApplication {
     ]
 
     files: [
+        "historical.cpp",
+        "historical.h",
         "main.cpp",
         "mainwindow.cpp",
         "mainwindow.h",
